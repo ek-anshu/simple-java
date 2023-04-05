@@ -22,11 +22,6 @@ pipeline {
             }
         } 
         
-        stage('Project Complte ') {
-            steps {
-                echo "Complte"
-            }
-        } 
-         
+                
     }
 }
